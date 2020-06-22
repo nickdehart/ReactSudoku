@@ -3,7 +3,7 @@
 - Generates, solves and helps solve sudoku puzzles.
 - Cell highlighting makes solving puzzles much easier.
 
-![alt text](./screenshot.png)
+![alt text](./example.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

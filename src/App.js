@@ -114,7 +114,7 @@ function App() {
       <div>
         <button onClick={restart}>Restart</button>
         <button onClick={hint}>Hint</button>
-        <button>Error Check</button>
+        {/* <button>Error Check</button> */}
         <button onClick={solvePuzzle}>Solve</button>
       </div>
     </div>
